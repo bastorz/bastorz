@@ -1,4 +1,4 @@
-[<img src="https://user-images.githubusercontent.com/91147992/153501055-7c7109af-6ba2-4ba1-8422-9de13f91a630.png">](https://www.linkedin.com/in/dami%C3%A1n-alcalay/)
+[<img src="https://user-images.githubusercontent.com/91147992/153501413-223d0914-5800-40a5-bd86-e90c66cd70ba.png">](https://www.linkedin.com/in/dami%C3%A1n-alcalay/)
 
 # Hello there! 👋🏻 I am Damian Alcalay! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
