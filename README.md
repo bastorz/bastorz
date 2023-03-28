@@ -1,4 +1,4 @@
-<img src="[https://user-images.githubusercontent.com/91147992/153501413-223d0914-5800-40a5-bd86-e90c66cd70ba.png]">
+<img src="https://user-images.githubusercontent.com/91147992/153501413-223d0914-5800-40a5-bd86-e90c66cd70ba.png">
 
 # Hello there! 👋🏻 I am Damian Alcalay! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
